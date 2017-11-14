@@ -674,7 +674,7 @@ All generated files are created under ${build} directory
     </copy>
 
     <copy file="LICENSE.txt" tofile="${dist}/LICENSE.txt"/>
-    <copy file="README.html" tofile="${dist}/README.html"/>
+    <copy file="README.md" tofile="${dist}/README.md"/>
     <!--copy file="README.txt" tofile="${dist}/README.txt"/-->
     <copy file="build.xml" tofile="${dist}/build.xml"/>
 
